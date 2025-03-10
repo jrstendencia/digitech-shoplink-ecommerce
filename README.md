@@ -1,6 +1,4 @@
-Starter build
-
-## Getting Started
+## Getting Started - Starter build
 
 First, run the development server:
 
